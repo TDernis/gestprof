@@ -1,5 +1,6 @@
 # gestprofs
 Gestprofs est un système de notation permettant de gérer des élèves, ajouter des examens ainsi que d'attribuer des notes aux élèves.
+Avant de commencer, assurez-vous d'avoir l'API de l'application disponible ici: https://github.com/TDernis/gestprofs-server.
 Afin de faire fonctionner cette application, il faut passer par quelques étapes de configuration.
 ## Configuration
 Tout d'abord, il faut installer les dépendances du projet:
